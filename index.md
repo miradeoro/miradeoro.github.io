@@ -71,7 +71,7 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/b">how to create your own site for free</a></section><section class="cid-qTkA127IK8 mbr-fullscreen mbr-parallax-background" id="header2-1">
+<section class="engine"><a href="https://mobirise.info/i">web creation software</a></section><section class="cid-qTkA127IK8 mbr-fullscreen mbr-parallax-background" id="header2-1">
 
     
 
@@ -114,10 +114,7 @@
                     <p class="mbr-text mbr-fonts-style display-5">
                         Digital transformation doesn´t just mean computers and IT consultants working on your processes. It means people that have both technical and business skills to really understand your needs, and solve them.</p>
                 </div>
-                <div class="mbr-section-btn">
-                    <a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a>
-                    <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.co">LIVE DEMO</a>
-                </div>
+                <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a></div>
             </div>
         </div>
     </div>
@@ -136,11 +133,8 @@
                 REAL WORLD EXPERIENCE.LOTS OF IT.</h1>
             
             <p class="mbr-text pb-3 mbr-fonts-style display-5">
-               With an average of 15+ years in the field,our team has worked for a number of companies of varying sizes and genres. From small business with 25 or less employees to big pharma, retail and tech corporations, our team has seen it all.</p>
-            <div class="mbr-section-btn">
-                <a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a>
-                <a class="btn btn-md btn-white-outline display-4" href="https://mobirise.co">LIVE DEMO</a>
-            </div>
+               With an average of 15+ years in the field,our team has worked for a number of companies of varying sizes and genres. From small businesses &nbsp;to big pharma, retail and tech corporations, our team has seen it all.</p>
+            <div class="mbr-section-btn"><a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a></div>
         </div>
     </div>
 
@@ -160,19 +154,10 @@
 
     <div class="container">
         <div class="media-container-column mbr-white col-lg-8 col-md-10">
-            <h1 class="mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style display-1">
-                FULL SCREEN INTRO
-            </h1>
-            <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-2">
-                Beautiful mobile websites
-            </h3>
-            <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">
-                Click any text to edit or style it. Select text to insert a link. Click blue "Gear" icon in the top right corner to hide/show buttons, text, title and change the block background. Click red "+" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.
-            </p>
-            <div class="mbr-section-btn align-left">
-                <a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a>
-                <a class="btn btn-md btn-black-outline display-4" href="https://mobirise.co">LIVE DEMO</a>
-            </div>
+            <h1 class="mbr-section-title align-left mbr-bold pb-3 mbr-fonts-style display-1">Not just about solving problems</h1>
+            <h3 class="mbr-section-subtitle align-left mbr-light pb-3 mbr-fonts-style display-5">Adding extra value to your business</h3>
+            <p class="mbr-text align-left pb-3 mbr-fonts-style display-5">Going digital makes you more efficient, cutting costs where it matters and freeing time so you can actually run your business. But it can also mean providing customers with new services and products you couldn´t offer before.</p>
+            <div class="mbr-section-btn align-left"><a class="btn btn-md btn-primary display-4" href="https://mobirise.co">LEARN MORE</a></div>
         </div>
     </div>
 
@@ -212,8 +197,7 @@
                     Contacts
                 </h5>
                 <p class="mbr-text">
-                    Email: support@mobirise.com
-                    <br>Phone: +1 (0) 000 0000 001
+                    Email: support@fbo.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Phone: +1 (0) 000 0000 001
                     <br>Fax: +1 (0) 000 0000 002
                 </p>
             </div>
@@ -221,9 +205,7 @@
                 <h5 class="pb-3">
                     Links
                 </h5>
-                <p class="mbr-text">
-                    <a class="text-primary" href="https://mobirise.com/">Website builder</a>
-                    <br><a class="text-primary" href="https://mobirise.com/mobirise-free-win.zip">Download for Windows</a>
+                <p class="mbr-text">TBD<br><a class="text-primary" href="https://mobirise.com/mobirise-free-win.zip">Download for Windows</a>
                     <br><a class="text-primary" href="https://mobirise.com/mobirise-free-mac.zip">Download for Mac</a>
                 </p>
             </div>
